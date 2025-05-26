@@ -29,7 +29,7 @@ I'm a Front-End Developer passionate about building clean, scalable, and user-fr
 
 ### 🌟 Featured
 - **HNG Internship Project** – Collaborated with cross-functional teams to build a real-world restaurant service app under tight deadlines.[https://www.visit.menu]
-- **Multi-Step Ticket Booking App** – Built using React, react-hook-form, TailwindCSS, Zod, and Framer Motion for fluid UX and robust validation. Includes immediate ticket rendering and deletion logic.
+- **Multi-Step Ticket Booking App** – Built using React, react-hook-form, TailwindCSS, Zod, and Framer Motion for fluid UX and robust validation. Includes immediate ticket rendering and deletion logic.[https://hngx-stage2-conference-ticket.vercel.app/]
 - **Kanban Board UI** – Designed and built an interactive Kanban board from scratch using Figma and React, emphasizing clean UI/UX.
 
 Would you like to see more? Check out my pinned repositories below ⬇️
