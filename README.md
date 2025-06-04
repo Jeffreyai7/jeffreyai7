@@ -41,11 +41,11 @@ Would you like to see more? Check out my pinned repositories below ⬇️
 
 ## 📜 Certifications
 
-- 🎓 [Responsive Web Design – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/responsive-web-design)
-- 🎓 [Legacy Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Jirukeh/javascript-algorithms-and-data-structures)
-- 🎓 [Javascript Algorithms and Data Structures (Beta) – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/javascript-algorithms-and-data-structures-v8)
-- 🎓 [Frontend Development Libraries – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/front-end-development-libraries)
 - 🎓 [Web Development BootCamp – DYEN](https://drive.google.com/file/d/1wjjo_9Vb0MQm_LzWmae4nypsoOB9UvEI/view)
+- 🎓 [Frontend Development Libraries – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/front-end-development-libraries)
+- 🎓 [Javascript Algorithms and Data Structures (Beta) – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/javascript-algorithms-and-data-structures-v8)
+- 🎓 [Legacy Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Jirukeh/javascript-algorithms-and-data-structures)
+- 🎓 [Responsive Web Design – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/responsive-web-design)
 
 
 ---
