@@ -32,7 +32,7 @@ I'm a Front-End Developer passionate about building clean, scalable, and user-fr
   
 - **Multi-Step Ticket Booking App** – Built using React, react-hook-form, TailwindCSS, Zod, and Framer Motion for fluid UX and robust validation. Includes immediate ticket rendering and deletion logic.[https://hngx-stage2-conference-ticket.vercel.app/]
   
-- Kanban Board App – Collaboratively designed and built an interactive Kanban board using Figma, React, and Django REST Framework. The application features a clean, intuitive UI/UX and supports drag-and-drop task management for seamless workflow organization. [https://kanban-board-manager-gtpn1ev8y-jeffrey-ajiri-irukehs-projects.vercel.app/]
+- Kanban Board App – Collaboratively designed and built an interactive Kanban board using Figma, React, and Django REST Framework. The application features a clean, intuitive UI/UX and supports drag-and-drop task management for seamless workflow organization. [https://kanban-board-manager.vercel.app/]
 
 
 Would you like to see more? Check out my pinned repositories below ⬇️
