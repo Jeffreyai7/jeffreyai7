@@ -41,6 +41,7 @@ Would you like to see more? Check out my pinned repositories below ⬇️
 
 ## 📜 Certifications
 
+- 🎓 [HNG Internship –Proficiency In Frontend Certification](https://drive.google.com/file/d/1-qxLazm9wSEXp8BieF_zdDM7Wxl6bRZo/view?usp=drive_link)
 - 🎓 [Web Development BootCamp – DYEN](https://drive.google.com/file/d/1wjjo_9Vb0MQm_LzWmae4nypsoOB9UvEI/view)
 - 🎓 [Frontend Development Libraries – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/front-end-development-libraries)
 - 🎓 [Javascript Algorithms and Data Structures (Beta) – FreeCodeCamp](https://www.freecodecamp.org/certification/Jirukeh/javascript-algorithms-and-data-structures-v8)
